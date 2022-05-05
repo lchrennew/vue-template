@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/header-app/header-app.iml" filepath="$PROJECT_DIR$/header-app/header-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menu-app/menu-app.iml" filepath="$PROJECT_DIR$/menu-app/menu-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root-app/root-app.iml" filepath="$PROJECT_DIR$/root-app/root-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vue-template.iml" filepath="$PROJECT_DIR$/vue-template.iml" />
+    </modules>
+  </component>
+</project>
