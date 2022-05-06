@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "LogoFont Primary";
+    src: url('/logo-font-primary.woff2');
+}
+@font-face {
+    font-family: "LogoFont Secondary";
+    src: url('/logo-font-secondary.woff2');
+}
